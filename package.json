@@ -1,0 +1,28 @@
+{
+  "name": "react-native-barcode-scanner-universal",
+  "version": "1.0.5",
+  "description": "Barcode scanner for react-native, depends on react-native-camera and react-native-barcodescanner, provide a universal interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applean/react-native-barcode-scanner-universal.git"
+  },
+  "keywords": [
+    "Barcode",
+    "scanner",
+    "qrcode"
+  ],
+  "author": "Li Jie <lijie@applean.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/applean/react-native-barcode-scanner-universal/issues"
+  },
+  "homepage": "https://github.com/applean/react-native-barcode-scanner-universal#readme",
+  "dependencies": {
+    "react-native-barcodescanner": "ding1028/react-native-barcodescanner",
+    "react-native-camera": "lwansbrough/react-native-camera#bff819c574eb60a1ffdb664aa2b03d9d15c57c28"
+  }
+}
